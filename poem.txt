@@ -4,3 +4,7 @@ red
 green
 blue yellow
 pink
+
+blood red
+
+pinkish purple
